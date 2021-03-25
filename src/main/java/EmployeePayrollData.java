@@ -1,7 +1,7 @@
 class EmployeePayrollData {
-    public int id;
-    public String name;
-    public double salary;
+     int id;
+     String name;
+     double salary;
 
     public EmployeePayrollData(int id, String name, double salary) {
         this.id = id;
